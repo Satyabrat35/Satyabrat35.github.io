@@ -26,7 +26,7 @@ section .inside {
 }
 section.intro {
   background-color: #afb1c9;
-  background-image: url("https://s3.amazonaws.com/aistechnolabss3/wp-content/uploads/2018/05/05145404/01-react-native-developer-background.jpg");
+  background-image: url(bck.jpg);
 }
 section.intro h2 {
   font-family: "Pacifico", cursive;
